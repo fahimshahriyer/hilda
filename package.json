@@ -1,0 +1,16 @@
+{
+  "name": "hilda",
+  "version": "1.0.0",
+  "description": "A Django boilerplate for F1 Racers(Fast Developers)!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "django",
+    "boilerplate",
+    "webapp"
+  ],
+  "author": "Fahim Shahriyer",
+  "license": "MIT"
+}
